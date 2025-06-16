@@ -15,7 +15,7 @@ flowchart TD
     A[Company base Tables] -->|summaries| B[Company summaried tables]
     C[External data] -->|ETL| D[External Base tables]
     D[External Base tables] -->|summaries| E[External summaried tables]
-    B[Company summaried tables] -->|table join| F[joined table]
-    E[External summaried tables] -->|table joiin| F[joined tables]
-    F[joined tables] -->|correlation|G[Correlation analysis]
+    B[Company summaried tables] -->|table join| F[company and external data combined]
+    E[External summaried tables] -->|table join| F[company and external data combined]
+    F[company and external data combined] -->|correlation|G[Correlation analysis]
 ```
