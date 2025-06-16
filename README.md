@@ -18,4 +18,7 @@ flowchart TD
     B[Company summaried tables] -->|table join| F[company and external data combined]
     E[External summaried tables] -->|table join| F[company and external data combined]
     F[company and external data combined] -->|correlation|G[Correlation analysis]
-```
+```  
+  
+ETL - Refer https://github.com/milan888-design/ai-agents-workflow  
+table join - Refer https://github.com/milan888-design/llm-creates-sql  
