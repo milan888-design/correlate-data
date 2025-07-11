@@ -1,0 +1,11 @@
+﻿product_type,state,county_state,year,sales_in_thousand
+laptop,CA,"Los Angeles, CA",2023,200
+laptop,IL,"Cook, IL",2023,300
+laptop,TX,"Harris, TX",2023,500
+laptop,NY,"New York, NY",2023,600
+laptop,AZ,"Maricopa, AZ",2023,100
+laptop,CA,"Santa Clara, CA",2023,250
+laptop,CA,"Orange, CA",2023,600
+laptop,WA,"King, WA",2023,600
+laptop,CA,"San Diego, CA",2023,200
+laptop,TX,"Dallas, TX",2023,400
