@@ -22,3 +22,6 @@ flowchart TD
   
 ETL - Refer https://github.com/milan888-design/ai-agents-workflow  
 table join - Refer https://github.com/milan888-design/llm-creates-sql  
+
+datajoin_generic_task5createtable.py this is to create base table.  
+datajoin_generic_task6sum_scale_v3 this is to create sum scaled table from the base table.  
