@@ -6,8 +6,8 @@ Solution: Provide comprehensive regional details, including crime rates, educati
 
 DataJoin.net provides in-depth education and consultation on matching CRM data with regional open-source information.
 
-milan@datajoin.net  
-http://datajoin.net  
+milanp979@gmail.com  
+https://systemdna.com  
 
 ## Flowchart  
 ```mermaid
